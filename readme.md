@@ -49,7 +49,7 @@ For example:
 {% pdfembed 'https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf' 'LIGHT_BOX' %}
 ```
 
-The second argument lets you customize the ID value used for the `div` tag. By default this is `adobe-pdf-view`, but you can set this to any valid ID:
+The third argument lets you customize the ID value used for the `div` tag. By default this is `adobe-pdf-view`, but you can set this to any valid ID:
 
 ```html
 <style>
