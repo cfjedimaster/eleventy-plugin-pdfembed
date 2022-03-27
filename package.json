@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/cfjedimaster/eleventy-plugin-pdfembed.git"
   },
-  "keywords": [],
+  "keywords": ["eleventy", "eleventy-plugin"],
   "author": {
     "name":"Raymond Camden",
     "url":"https://www.raymondcamdne.com"
