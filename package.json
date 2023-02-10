@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-pdfembed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is an Eleventy plugin that creates a shortcode for Adobe's PDF Embed API.",
   "main": ".eleventy.js",
   "scripts": {
