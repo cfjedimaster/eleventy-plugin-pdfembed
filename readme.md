@@ -62,3 +62,7 @@ The third argument lets you customize the ID value used for the `div` tag. By de
 {% pdfembed 'https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf' 'IN_LINE' 'pdfdemo' %}
 ```
 
+## History
+
+Feb 2, 2023 (1.0.2) - updated the script tag to use the modern viewer.
+
